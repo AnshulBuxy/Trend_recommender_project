@@ -28,7 +28,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cloth-recommender.git
+    git clone https://github.com/AnshulBuxy/Trend_recommender_project.git
     cd cloth-recommender
     ```
 
