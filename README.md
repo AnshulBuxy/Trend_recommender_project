@@ -63,17 +63,4 @@ The extracted feature vectors from both models are used to compute cosine simila
 
 Upon providing an input image, the system returns the top 5 most similar clothing items based on the extracted feature vectors. This approach ensures that recommendations are visually and stylistically similar to the query image.
 
-## Contributing
 
-We welcome contributions to enhance the project. To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
