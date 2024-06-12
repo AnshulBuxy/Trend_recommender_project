@@ -10,8 +10,7 @@ This project aims to build a trend recommender system for women's clothing using
 - [Usage](#usage)
 - [Methodology](#methodology)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
