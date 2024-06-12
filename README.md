@@ -63,6 +63,13 @@ The extracted feature vectors from both models are used to compute cosine simila
 
 Upon providing an input image, the system returns the top 5 most similar clothing items based on the extracted feature vectors. This approach ensures that recommendations are visually and stylistically similar to the query image.
 
+Resnet Output-
+
 ![Resnet result](resnet_output.png)
+
+
+VGG16 Output-
+
+![Resnet result](vgg_output.png)
 
 
